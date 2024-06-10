@@ -11,8 +11,8 @@ function App() {
    <div>
      <Navigation/>
      <main className="main_container">
-     <ContactHeader/>
-     <ContactForm/>
+     <ContactHeader />
+     <ContactForm />
      </main>
     </div>
   )

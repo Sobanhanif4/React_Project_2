@@ -3,7 +3,7 @@ const ContactHeader = () => {
   return (
     <div 
     
-    className={`container ${styles.contact_section}`}
+    className={`${styles.contact_section}`}
     
 
     >

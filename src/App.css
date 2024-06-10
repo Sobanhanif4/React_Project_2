@@ -8,6 +8,7 @@
 }
 body {
   font-family: "Poppins", sans-serif;
+  
 }
 
 .container{
@@ -19,6 +20,7 @@ body {
   display: flex;
   height: calc(100vh - 72px);
   flex-direction: column;
-  overflow: hidden;
+  /* overflow: hidden; */
+  
   
 }
